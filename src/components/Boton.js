@@ -1,3 +1,4 @@
+import '../stylesheet/Boton.css'; 
 
 function Boton({ texto, esBotonDeClic, manejarClic }) {
     return (

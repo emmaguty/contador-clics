@@ -12,7 +12,14 @@ function App() {
         />
       </div>
       <div className='contenedor-principal'>
-        
+        <Boton
+          texto='Clic'
+          esBotonDeClic={true}
+          manejarClic={} />
+        <Boton
+          texto='Reiniciar'
+          esBotonDeClic={false}
+          manejarClic={} />
       </div>
     </div>
   );

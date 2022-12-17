@@ -4,6 +4,7 @@ import Contador from './components/Contador';
 import Boton from './components/Boton';
 
 //Hook usestate para agregar un estado a un componente funcional
+//Este Hook es de los mas importantes
 import { useState } from 'react';
 
 
